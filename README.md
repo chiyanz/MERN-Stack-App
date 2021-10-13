@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# JavaScript on the MERN stack project
+This project utilizes the MERN Stack: Mongo DB, Express, React, Node, to make a mock social media app that allow users to make posts.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
